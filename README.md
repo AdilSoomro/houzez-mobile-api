@@ -1,3 +1,8 @@
+# Alert: Repo Archived
+Development will continue in following repo
+https://github.com/AdilSoomro/houzi-rest-api
+
+
 
 ![Houzi Real Estate App for Houzez](images/banner.jpg)
 
